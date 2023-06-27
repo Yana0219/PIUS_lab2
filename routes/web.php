@@ -58,3 +58,4 @@ Route::get('/category/{id}', function ($id) {
     }
 
 });
+?>
